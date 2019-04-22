@@ -1,3 +1,3 @@
-Coding Art Space
+# Coding Art Space
 
-Toutorials, articles, samples and demos about coding best practices, how to write maintainable, testable and clean code  
+## Toutorials, articles and samples  about coding best practices, and how to write maintainable, testable and clean code!  
